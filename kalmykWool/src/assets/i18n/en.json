@@ -1,0 +1,53 @@
+{
+    "HEADER": {
+        "LINK_about": "Company Information",
+        "LINK_partners": "Partners",
+        "LINK_process": "Process",
+        "LINK_news": "Media about us",
+        "LINK_assortment": "Assortment",
+        "LINK_staff": "Staff",
+        "LINK_contacts": "Contacts"
+    },
+    "MAIN_PAGE": {
+        "MAIN_PAGE__title": "Kalmyk Wool",
+        "MAIN_PAGE__subtitle": "Wool processing is one of the most promising industries in our region. Kalmykia is among the leaders in the production of sheep wool."
+    },
+    "BTN": {
+        "BTN_REDIRECT": "Contact",
+        "BTN_REDIRECTus": "CONTACT US",
+        "BTN_MORE": "More detailed"
+    },
+    "ABOUT": {
+        "ABOUT__title": "Company Information",
+        "ABOUT_TEXT": {
+            "ABOUT_TEXT__1": "The company «Kalmyk Wool» LLC was registered in 2020 on the territory of the Republic of Kalmykia. The company specializes in harvesting, processing and selling wool of small cattle in the Republic of Kalmykia.",
+            "ABOUT_TEXT__2": "The company has its own procurement network in the Republic of Kalmykia, storage sites are equipped with equipment for primary processing of wool. To date, an Independent wool preparation Center operates at 2 sites: in Utta village of Yashkul district, as well as in Elista.",
+            "ABOUT_TEXT__3": "It is the only company in the region in the field of wool harvesting that sells goods to near and far abroad. All foreign exchange earnings are credited to a bank account in the republic.",
+            "ABOUT_TEXT__4": "The entire technological process has been established in the production: from the acceptance of wool, classification and to the preparation of raw materials for sale in accordance with international standards.",
+            "ABOUT_TEXT__5": "Kalmyk Wool LLC is a leading enterprise for the procurement and primary processing of fine–wool, semi-fine-wool and semi-coarse-wool sheep breeds in the Republic of Kalmykia."
+        }
+    },
+    "COMPANY": {
+        "COMPANY__title": "COMPANIES THAT TRUST US",
+        "COMPANY__subtitle": "Partners and clients of the company are our main value. We work for them and in return we receive pleasant positive feedback",
+        "COMPANY_PARTNERS": {
+            "COMPANY_PARTNERS__1": "JSC «Kamvol»  is the largest manufacturer of textile products, which has a full production cycle: from the manufacture of yarn to the production of fabric and the supply of products to the countries of Europe and the CIS.",
+            "COMPANY_PARTNERS__2": "Open Joint Stock Company «Slonim Worsted Spinning Factory» belongs to the textile industry and is part of the Belarusian State Concern for the production and sale of light industry goods «Bellegprom»."
+        },
+        "COMPANY__diploma": "OUR ACHIEVEMENTS"
+    },
+    "PROCESS": {
+        "PROCESS__title": "Primary processing of wool"
+    },
+    "ASSORTMENT": {
+        "ASSORTMENT__title": "assortment"
+    },
+    "STAFF": {
+        "STAFF__title": "staff"
+    },
+    "FOOTER": {
+        "FOOTER__title": " Limited Liability Company  «KALMYK WOOL» ",
+        "FOOTER__director": "Executive Director of Kalmyk Wool LLC",
+        "FOOTER__tel": "Phone.:"
+    }
+}

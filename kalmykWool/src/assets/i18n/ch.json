@@ -1,0 +1,53 @@
+{
+    "HEADER": {
+        "LINK_about": "公司资料",
+        "LINK_partners": "合作伙伴",
+        "LINK_process": "过程",
+        "LINK_news": "关于我们的媒体",
+        "LINK_assortment": "分类",
+        "LINK_staff": "教职员",
+        "LINK_contacts": "联络人"
+    },
+    "MAIN_PAGE": {
+        "MAIN_PAGE__title": "Kalmyk Wool",
+        "MAIN_PAGE__subtitle": "羊毛加工是我们地区最有前途的行业之一。 卡尔梅基亚是羊毛生产的领导者之一."
+    },
+    "BTN": {
+        "BTN_REDIRECT": "联系我们",
+        "BTN_REDIRECTus":"联络我们",
+        "BTN_MORE":"更详细"
+    },
+    "ABOUT": {
+        "ABOUT__title": "公司资料",
+        "ABOUT_TEXT": {
+            "ABOUT_TEXT__1": " 卡尔梅克羊毛 有限责任公司于2020年在卡尔梅克共和国境内注册。 该公司专门从事在卡尔梅基亚共和国收获、加工和销售小牛的羊毛。",
+            "ABOUT_TEXT__2": "该公司在卡尔梅基亚共和国拥有自己的采购网络，储存地点配备了羊毛初级加工设备。 迄今为止，一个独立的羊毛制备中心在2站点运营：在Yashkul区的Utta村以及Elista。",
+            "ABOUT_TEXT__3": "它是该地区唯一一家在羊毛收获领域向国内外销售商品的公司。 所有外汇收入都记入共和国的银行账户。",
+            "ABOUT_TEXT__4": "整个工艺流程已经在生产中建立：从羊毛的验收，分类和按照国际标准准备销售的原材料。",
+            "ABOUT_TEXT__5": "卡尔梅克羊毛有限责任公司是卡尔梅克共和国细羊毛、半细羊毛和半粗羊毛品种采购和初级加工的龙头企业。"
+        }
+    },
+    "COMPANY": {
+        "COMPANY__title": "信任我们的公司",
+        "COMPANY__subtitle": "公司的合作伙伴和客户是我们的主要价值。 我们为他们工作，作为回报，我们得到了令人愉快的积极反馈",
+        "COMPANY_PARTNERS": {
+            "COMPANY_PARTNERS__1": " Kamvol 是最大的纺织产品制造商，拥有完整的生产周期：从纱线制造到织物生产以及向欧洲和独联体国家供应产品。",
+            "COMPANY_PARTNERS__2": "开放式股份公司  Slonim精纺厂 属于纺织工业，是白俄罗斯国家生产和销售轻工业产品 Bellegprom 的一部分。"
+        },
+        "COMPANY__diploma": "我们的成就"
+    },
+    "PROCESS":{
+        "PROCESS__title":"羊毛的初级加工"
+    },
+    "ASSORTMENT":{
+        "ASSORTMENT__title":"分类"
+    },
+    "STAFF":{
+        "STAFF__title":"教职员"
+    },
+    "FOOTER":{
+        "FOOTER__title":"有限责任公司 卡尔梅克Wool ",
+        "FOOTER__director": "卡尔梅克Vul有限责任公司执行董事",
+        "FOOTER__tel":"电话.:"
+    }
+}
