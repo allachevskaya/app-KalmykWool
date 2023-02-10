@@ -14,6 +14,12 @@ import { FormsModule } from '@angular/forms';
 import { TranslateModule, TranslateLoader } from '@ngx-translate/core';
 import { TranslateHttpLoader } from '@ngx-translate/http-loader';
 import { HttpClientModule, HttpClient } from '@angular/common/http';
+import { HeaderComponent } from './components/header/header.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { AboutComponent } from './components/about/about.component';
+import { CompanyComponent } from './components/company/company.component';
+import { ProcessComponent } from './components/process/process.component';
+import { FormComponent } from './components/form/form.component';
 
 
 
@@ -30,7 +36,13 @@ export function HttpLoaderFactory(http: HttpClient) {
     MainComponent,
     NewsComponent,
     StaffComponent,
-    NotFoundComponent
+    NotFoundComponent,
+    HeaderComponent,
+    FooterComponent,
+    AboutComponent,
+    CompanyComponent,
+    ProcessComponent,
+    FormComponent
   ],
   imports: [
     BrowserModule,

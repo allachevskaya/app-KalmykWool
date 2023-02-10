@@ -1,0 +1,60 @@
+<header class="header">
+    <div class="header-container container">
+        <div class="header-menu">
+            <a class="menu-link" href="#about">{{'HEADER.LINK_about' | translate}}</a>
+            <a class="menu-link" href="#partners">{{'HEADER.LINK_partners' | translate}}</a>
+            <a class="menu-link" href="#process">{{'HEADER.LINK_process' | translate}}</a>
+        </div>
+        <div class="header-logo">
+            <img routerLink="/" src="../../../assets/images/main/logo.svg" alt="Логотип">
+            <select name="select" class="select" (change)="changeLang($event.target)">
+                <option value="ru" [selected]="lang == 'ru' ">
+                    ru
+                </option>
+                <option value="en" [selected]="lang == 'en' ">
+                    en
+                </option>
+                <option value="ch" [selected]="lang == 'ch' ">
+                    ch
+                </option>
+
+            </select>
+        </div>
+        <div class="header-menu">
+            <a class="menu-link" routerLink="/news">{{'HEADER.LINK_news' | translate}}</a>
+            <a class="menu-link" routerLink="/assortment">{{'HEADER.LINK_assortment' | translate}}</a>
+            <a class="menu-link" routerLink="/staff">{{'HEADER.LINK_staff' | translate}}</a>
+            <a class="menu-link" href="#contacts">{{'HEADER.LINK_contacts' | translate}}</a>
+        </div>
+    </div>
+</header>
+
+
+<div class="header-burger">
+    <div class="header-logo">
+        <img routerLink="/" src="../../../assets/images/main/logo.svg" alt="Логотип">
+        <select name="select" class="select" (change)="changeLang($event.target)">
+            <option value="ru" [selected]="lang == 'ru' ">
+                ru
+            </option>
+            <option value="en" [selected]="lang == 'en' ">
+                en
+            </option>
+            <option value="ch" [selected]="lang == 'ch' ">
+                ch
+            </option>
+
+        </select>
+    </div>
+    <img src="../../../assets/images/icons/menu.svg" alt="меню" class="header-burger-icon" (click)="openMenu()">
+
+    <div class="header-burger-menu" *ngIf="toggleMenu">
+        <a class="menu-link" href="#about">{{'HEADER.LINK_about' | translate}}</a>
+        <a class="menu-link" href="#partners">{{'HEADER.LINK_partners' | translate}}</a>
+        <a class="menu-link" href="#process">{{'HEADER.LINK_process' | translate}}</a>
+        <a class="menu-link" routerLink="/news">{{'HEADER.LINK_news' | translate}}</a>
+        <a class="menu-link" routerLink="/assortment">{{'HEADER.LINK_assortment' | translate}}</a>
+        <a class="menu-link" routerLink="/staff">{{'HEADER.LINK_staff' | translate}}</a>
+        <a class="menu-link" href="#contacts">{{'HEADER.LINK_contacts' | translate}}</a>
+    </div>
+</div>

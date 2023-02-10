@@ -9,7 +9,6 @@ import { StaffComponent } from './pages/staff/staff.component';
 
 const routes: Routes = [
   {path:'', component: MainComponent},
-
   {path:'staff', component:StaffComponent},
   {path:'assortment', component:AssortmentComponent},
   {path:'detailed', component:AssortmentDetailedComponent},

@@ -1,1 +1,43 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Montserrat';
+}
+
+body {
+    overflow-x: hidden;
+    font-family: 'Montserrat';
+}
+
+a {
+    text-decoration: none;
+}
+
+.container {
+    padding: 0 100px;
+    border: 1px solid red;
+}
+
+@media (max-width: 1306px) {
+    .container {
+        padding: 0 40px;
+    }
+
+    .company {
+        &-title {
+            margin: 20px 40px 100px;
+        }
+
+        &-text {
+            margin: 50px 40px;
+        }
+
+        &-logos {
+            &-logo {
+                float: left;
+            }
+
+        }
+    }
+}
